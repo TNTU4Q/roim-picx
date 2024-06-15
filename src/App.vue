@@ -56,7 +56,7 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from "element-plus/es/locale/lang/zh-cn"
 
-const appName = 'IMG_R2'
+const appName = 'R2图床'
 
 document.title = appName
 
